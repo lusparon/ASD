@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\mylist\main.cpp(7): warning C4101: start: неиспользованная локальная переменная
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\mylist\main.cpp(7): warning C4101: stop: неиспользованная локальная переменная
+  MyList.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\Алгоритмы и структуры данных\MyList\Debug\MyList.exe
