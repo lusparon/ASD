@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\алгоритмы и структуры данных\binary-tree-search\bst\main.cpp(92): warning C4018: <: несоответствие типов со знаком и без знака
+  BST.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\Алгоритмы и структуры данных\Binary-Tree-Search\BST\Debug\BST.exe
