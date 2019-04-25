@@ -16,14 +16,14 @@ void main()
 		tree.insert(i);//(rand() % n);
 	for (auto it = tree.begin(); it != tree.end(); ++it)
 		cout << *it << " ";
-	cout << endl;
+	cout << "\n\n";
 	tree.print_infix();
-	cout << endl;
+	cout << "\n\n";
 	tree.input_file("RBTree.txt");
     tree.output_file("RBTree(1).txt");
     
     tree.print_infix();
-    cout << endl;
+    cout << "\n\n";
     
     cout << "find(12): " << *tree.find(12) << endl;
     
@@ -33,7 +33,7 @@ void main()
 	cout << "find(12): " << *tree.find(12) << endl;
 
     tree.print_infix();
-	cout << "amount of rotations: " << tree.rotations() << endl;
+	cout << "\namount of rotations: " << tree.rotations() << endl;
     cout << endl;
 
 	cout << "find(12): " << *tree.find(12) << endl;
@@ -42,7 +42,7 @@ void main()
 	cout << "insert 12" << endl;
 
 	tree.print_infix();
-	cout << "amount of rotations: " << tree.rotations() << endl;
+	cout << "\namount of rotations: " << tree.rotations() << endl;
 	cout << endl;
 	
 	cout << "find(12): " << *tree.find(12) << endl;
