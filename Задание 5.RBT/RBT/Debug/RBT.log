@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(9,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(11,15): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(15,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(101,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(106,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(112,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\RBT\main.cpp(117,26): warning C4018:  <: несоответствие типов со знаком и без знака
+  RBT.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\RBT\Debug\RBT.exe

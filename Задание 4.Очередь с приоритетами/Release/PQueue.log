@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(97): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(104): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(108): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(115): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(124): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(128): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(135): warning C4244: =: преобразование "unsigned __int64" в "clock_t", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\heap.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\heap.h(18): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\heap.h(84): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Heap<T,std::vector<T,std::allocator<_Ty>>,comp>::heapify(int)"
+          with
+          [
+              T=measured_string,
+              _Ty=measured_string,
+              comp=std::less<measured_string>
+          ]
+  c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\hpqueue.h(9): note: выполняется компиляция ссылки на экземпляр шаблон класс "Heap<T,std::vector<T,std::allocator<_Ty>>,comp>"
+          with
+          [
+              T=measured_string,
+              _Ty=measured_string,
+              comp=std::less<measured_string>
+          ]
+  c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\main.cpp(146): note: выполняется компиляция ссылки на экземпляр шаблон класс "HPQueue<measured_string,std::less<measured_string>>"
+c:\users\luspa\onedrive\рабочий стол\алгоритмы и структуры данных\pqueue\heap.h(28): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 617 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  PQueue.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\Алгоритмы и структуры данных\PQueue\Release\PQueue.exe
